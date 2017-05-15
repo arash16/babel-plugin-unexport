@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-unexport",
+  "version": "1.0.0",
+  "description": "a babel-pluging to transform l-template tags.",
+  "author": "Arash Shakery <arash.shakery@gmail.com> (arash16.com)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src/index.js -o lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arash16/unexport.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "l10n",
+    "l18n",
+    "localization",
+    "translation"
+  ],
+  "bugs": {
+    "url": "https://github.com/arash16/unexport/issues"
+  },
+  "homepage": "https://github.com/arash16/unexport#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.4.0"
+  }
+}
