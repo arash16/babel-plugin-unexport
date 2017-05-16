@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-unexport",
-  "version": "1.0.1",
-  "description": "a babel-pluging to transform l-template tags.",
+  "version": "1.0.2",
+  "description": "a babel-plugin to transform l-template tags.",
   "author": "Arash Shakery <arash.shakery@gmail.com> (arash16.com)",
   "license": "MIT",
   "main": "lib/index.js",
