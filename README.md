@@ -1,2 +1,2 @@
 # babel-plugin-unexport
-a babel-pluging to remove export directives
+a babel-plugin to remove export directives
